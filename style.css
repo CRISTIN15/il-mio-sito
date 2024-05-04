@@ -1,0 +1,10 @@
+body{ font-family: Arial, Helvetica, sans-serif;
+background-colour:chocolate;
+}
+a{
+    text-decoration: none;
+}
+.menu a{
+    font-size: 30px;
+    color:#ffebcd
+}
